@@ -1,1 +1,29 @@
 @charset 'utf-8';
+body {
+    padding-top: 70px;
+}
+
+div.backgroud-about, div.backgroud-portfolio {
+    margin: 1em 0;
+    padding: 1em 0;
+    background-color: #efefef;
+}
+
+div.backgroud-contact {
+    margin: 1em 0;
+    padding: 1em 0;
+}
+
+section#portfolio {
+    padding: 1em 0;
+}
+
+section#portfolio .glyphicon {
+    display: block;
+    font-size: 6em;
+    text-align: center;
+}
+
+section#portfolio h3 {
+    text-align: center;
+}
